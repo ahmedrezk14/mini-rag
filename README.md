@@ -11,3 +11,12 @@ This is a minimal implementation f the RAG model for question answering
 1) 
 2)
 3)
+
+
+## Installation 
+
+### install the required packages 
+
+### setup the environment variable 
+
+set you env var in the .env file like OPENAI_API_KEY
