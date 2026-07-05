@@ -20,3 +20,6 @@ This is a minimal implementation f the RAG model for question answering
 ### setup the environment variable 
 
 set you env var in the .env file like OPENAI_API_KEY
+
+##run fastapi server 
+uvicorn main:app --reload --host 0.0.0.0  --port 5000 
